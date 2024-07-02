@@ -1,0 +1,24 @@
+.background {
+  background-color: #00c2ff;
+}
+.hero-img img {
+  width: 580px;
+}
+.hero-title {
+  padding-top: 150px;
+}
+.hero-title p {
+  line-height: 70px;
+}
+.hero-title p:nth-last-of-type(1) {
+  font-weight: 400;
+  font-size: 48px;
+}
+.hero-title p:nth-last-of-type(2) {
+  font-weight: 700;
+  font-size: 95px;
+}
+.hero-title p:nth-last-of-type(3) {
+  font-weight: 300;
+  font-size: 25px;
+}
